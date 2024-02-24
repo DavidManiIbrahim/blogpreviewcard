@@ -66,9 +66,9 @@ h5{
     }
 }
 
-/* @media screen and (orientation:landscape) {
+@media screen and (orientation:landscape) {
     #container{
-        width: 40%;
+        width: 20%;
         height: auto;
     }
-} */
+}
